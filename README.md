@@ -33,6 +33,10 @@
 
 ### 🚀 Проекты
 
+- [**OrderFlow**](https://github.com/sazonov2703/OrderFlow)
+  Сервис-органайзер заказов для микро-бизнеса в соцсетях. Всё нужное в одном месте — без Excel и блокнотов  
+  _Stack:_ Asp .NET Core, PostgreSQL, React
+  
 - [**DrugsBot(Dex)**](https://github.com/sazonov2703/DrugsBotRb)  
   Практикум с упором на современные подходы в backend: SOLID, CQRS, архитектура
   _Stack:_ Asp .NET Core, PostgreSQL, RabbitMQ, Docker
@@ -40,10 +44,6 @@
 - [**Tasked**](https://github.com/sazonov2703/Tasked)  
   Онлайн TO-DO сервис, легко интегрируется в интерфейсы и виджеты  
   _Stack:_ Asp .NET Core, PostgreSQL, Docker
-
-- OrderFlow (In progress)**  
-  Сервис-органайзер заказов для микро-бизнеса в соцсетях. Всё нужное в одном месте — без Excel и блокнотов  
-  _Stack:_ Asp .NET Core, PostgreSQL, React
 
 ---
 
