@@ -33,7 +33,7 @@
 
 ### 🚀 Проекты
 
-- [**OrderFlow**](https://github.com/sazonov2703/OrderFlow)
+- [**OrderFlow**](https://github.com/sazonov2703/OrderFlow)  
   Сервис-органайзер заказов для микро-бизнеса в соцсетях. Всё нужное в одном месте — без Excel и блокнотов  
   _Stack:_ Asp .NET Core, PostgreSQL, React
   
