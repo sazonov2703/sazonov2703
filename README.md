@@ -1,21 +1,20 @@
-# Привет, я Даниил Сазонов! 👋
+# Hi, I'm Daniil Sazonov! 👋
 
-**Backend-разработчик** из Приднестровской Молдавской Республики  
-В поиске удалённой работы, чтобы кодить в классных местах с латте и круассаном ☕🥐
-
----
-
-### 🧑‍💻 Обо мне
-
-- Опыт работы в команде (SmartPlace, 2023–2025)
-- Постоянно прокачиваю навыки и изучаю современные технологии
-- Увлекаюсь кибербезопасностью, в повседневной жизни использую как windows так и arch linux.
-- Люблю делиться опытом на митапах и быть спикером
-- В свободное время: играю на гитаре, занимаюсь тяжёлой атлетикой
+**Backend Developer** (Remote) | Transnistria region  
+Passionate about coding in productive environments with great coffee culture
 
 ---
 
-### 🛠️ Навыки
+### 🧑‍💻 Professional Profile
+- 1+ year of team development experience (SmartPlace 2023-2025)  
+- Committed to continuous learning and tech stack advancement  
+- Cybersecurity practitioner with dual-OS expertise (Windows/Arch Linux)  
+- Regular tech speaker at developer meetups  
+- Personal interests: Music (guitar) and strength training
+
+---
+
+### 🛠️ Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Asp .NET Core](https://img.shields.io/badge/-ASP.NET--Core-999?style=flat&logo=Microsoft&logoColor=white)
@@ -27,27 +26,28 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Также:** CSS, HTML, JavaScript, EF Core, DDD, CQRS, Docker-compose
+**Also:** CSS, HTML, JavaScript, EF Core, DDD, CQRS, Docker-compose
 
 ---
 
-### 🚀 Проекты
+### 🚀 Projects
 
 - [**OrderFlow**](https://github.com/sazonov2703/OrderFlow)  
-  Сервис-органайзер заказов для микро-бизнеса в соцсетях. Всё нужное в одном месте — без Excel и блокнотов  
-  _Stack:_ Asp .NET Core, PostgreSQL, React
-  
-- [**DrugsBot(Dex)**](https://github.com/sazonov2703/DrugsBotRb)  
-  Практикум с упором на современные подходы в backend: SOLID, CQRS, архитектура
-  _Stack:_ Asp .NET Core, PostgreSQL, RabbitMQ, Docker
+  All-in-one order management service for social media micro-businesses - replaces spreadsheets and notebooks  
+  _Stack:_ ASP.NET Core, PostgreSQL, React  
+
+- [**DrugsBot (Dex)**](https://github.com/sazonov2703/DrugsBotRb)  
+  Backend practice project implementing modern approaches: SOLID, CQRS, Clean Architecture  
+  _Stack:_ ASP.NET Core, PostgreSQL, RabbitMQ, Docker  
 
 - [**Tasked**](https://github.com/sazonov2703/Tasked)  
-  Онлайн TO-DO сервис, легко интегрируется в интерфейсы и виджеты  
-  _Stack:_ Asp .NET Core, PostgreSQL, Docker
+  Online TO-DO service with easy UI/widget integration  
+  _Stack:_ ASP.NET Core, PostgreSQL, Docker  
 
 ---
 
-### 📫 Связаться со мной
+### 📬 Connect With Me  
 
 - [GitHub](https://github.com/sazonov2703)
 - [Telegram](https://t.me/sazonov2703)
+- [LinkedIn](https://www.linkedin.com/in/danilsazonov)
