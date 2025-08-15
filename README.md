@@ -36,6 +36,5 @@ Passionate about coding in productive environments with great coffee culture
 
 ### 📬 Connect With Me  
 
-- [GitHub](https://github.com/sazonov2703)
 - [Telegram](https://t.me/sazonov2703)
 - [LinkedIn](https://www.linkedin.com/in/danilsazonov)
