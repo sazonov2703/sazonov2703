@@ -9,7 +9,6 @@ Passionate about coding in productive environments with great coffee culture
 - 1+ year of team development experience (SmartPlace 2023-2025)  
 - Committed to continuous learning and tech stack advancement  
 - Cybersecurity practitioner with dual-OS expertise (Windows/Arch Linux)  
-- Regular tech speaker at developer meetups  
 - Personal interests: Music (guitar) and strength training
 
 ---
@@ -34,15 +33,7 @@ Passionate about coding in productive environments with great coffee culture
 
 - [**OrderFlow**](https://github.com/sazonov2703/OrderFlow)  
   All-in-one order management service for social media micro-businesses - replaces spreadsheets and notebooks  
-  _Stack:_ ASP.NET Core, PostgreSQL, React  
-
-- [**DrugsBot (Dex)**](https://github.com/sazonov2703/DrugsBotRb)  
-  Backend practice project implementing modern approaches: SOLID, CQRS, Clean Architecture  
-  _Stack:_ ASP.NET Core, PostgreSQL, RabbitMQ, Docker  
-
-- [**Tasked**](https://github.com/sazonov2703/Tasked)  
-  Online TO-DO service with easy UI/widget integration  
-  _Stack:_ ASP.NET Core, PostgreSQL, Docker  
+  _Stack:_ ASP.NET Core 9, PostgreSQL
 
 ---
 
