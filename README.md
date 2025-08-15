@@ -24,8 +24,6 @@ Passionate about coding in productive environments with great coffee culture
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Also:** CSS, HTML, JavaScript, EF Core, DDD, CQRS, Docker-compose
-
 ---
 
 ### 🚀 Projects
