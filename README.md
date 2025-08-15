@@ -15,8 +15,8 @@ Passionate about coding in productive environments with great coffee culture
 
 ### 🛠️ Skills
 
-![C# 13](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Asp .NET Core 9](https://img.shields.io/badge/-ASP.NET--Core-999?style=flat&logo=Microsoft&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Asp .NET Core](https://img.shields.io/badge/-ASP.NET--Core-999?style=flat&logo=Microsoft&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
