@@ -9,7 +9,7 @@ Passionate about coding in productive environments with great coffee culture
 - 1+ year of team development experience (SmartPlace 2023-2025)  
 - Committed to continuous learning and tech stack advancement  
 - Cybersecurity practitioner with dual-OS expertise (Windows/Arch Linux)  
-- Personal interests: Music (guitar) and strength training
+- Personal interests: Music (guitar) and weight lifting
 
 ---
 
